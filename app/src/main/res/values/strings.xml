@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tut3</string>
+    <string name="TextName">Name</string>
+    <string name="num1">Number1</string>
+    <string name="num2">Number2</string>
+    <string name="okBtn">OK</string>
+</resources>
